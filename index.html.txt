@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inroduction</title>
+</head>
+<body>
+
+<h1>Its Tirthrajsinh</h1>
+<p>learning to merging the files using git.</p>
+
+</body>
+</html>
